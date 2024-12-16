@@ -2,7 +2,7 @@
 
 ## A collection of sample social media datasets, each containing over 1,000 records.
 
-![social media dataset header](https://github.com/luminati-io/social-media-dataset-samples/blob/main/eCommerce-datasets.PNG)
+![social media dataset header](https://github.com/luminati-io/Social-media-dataset-samples/blob/main/Social-media-datasets.png)
 
 Social media dataset samples featuring thousands of records in total. All datasets were extracted using the **Bright Data API**.
 
