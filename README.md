@@ -81,4 +81,4 @@ Track online conversations across social networks to capture both positive and n
 
 ## Free Access for Researchers and NGOs
 
-The Bright Initiative provides free access to **[Web Scraper APIs](https://brightdata.com/products/web-scraper)** and **[ready-to-use datasets](https://brightdata.com/products/datasets)** for academic faculties, researchers, NGOs, and NPOs working on environmental or social causes. Submit your application [here](https://brightinitiative.com).# Social-media-dataset-samples
+The Bright Initiative provides free access to **[Web Scraper APIs](https://brightdata.com/products/web-scraper)** and **[ready-to-use datasets](https://brightdata.com/products/datasets)** for academic faculties, researchers, NGOs, and NPOs working on environmental or social causes. Submit your application [here](https://brightinitiative.com).
