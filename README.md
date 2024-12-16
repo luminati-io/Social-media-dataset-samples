@@ -60,6 +60,14 @@ These are sample datasets and subsets derived from dozens of **social media data
 
 [Get the full social media datasets](https://brightdata.com/products/datasets/social-media)
 
+[Get the full Facebook dataset](https://brightdata.com/products/datasets/facebook)
+
+[Get the full Instagram dataset](https://brightdata.com/products/datasets/instagram)
+
+[Get the full Twitter dataset](https://brightdata.com/products/datasets/twitter)
+
+[Get the full TikTok dataset](https://brightdata.com/products/datasets/tiktok)
+
 ## What are the social media dataset use cases?
 
 ### 1. Social Media Presence
