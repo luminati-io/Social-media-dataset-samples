@@ -43,6 +43,10 @@ And many more.
 
 These are sample datasets and subsets derived from dozens of **social media datasets (public data)** containing millions of records.
 
+<a href="https://brightdata.com/products/datasets/social-media">
+   <img src="https://github.com/luminati-io/Social-media-dataset-samples/blob/main/dataset-promotions.png" alt="social media datasets" />
+</a>
+
 ## Available Dataset File Formats:
 
 - **JSON**, **NDJSON**, **JSON Lines**, **CSV**, or **Parquet**
